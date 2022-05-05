@@ -1,0 +1,7 @@
+packages/*/node_modules
+.DS_Store
+*.local
+packages/*/lib
+packages/*/dist
+packages/*/dist-ssr
+.idea/
